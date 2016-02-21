@@ -117,7 +117,7 @@ h1 {
 
 .recipe-image {
   display: inline-block;
-  float: clear;
+  float: left;
 }
 
 .text {

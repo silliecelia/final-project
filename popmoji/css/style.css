@@ -1,0 +1,148 @@
+nav {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.divider {
+  border-top: 1px solid #c6c6c6;
+}
+
+.speech-bubble {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+@font-face {
+  font-family: ‘Bryant’;
+  src: url(Bryant.eot’);
+  src: url(Bryant.woff’) format(‘woff’), 
+       url(Bryant.ttf’) format(‘truetype’), 
+             url(Bryant.svg’) format(‘svg’);
+
+  font-family: ‘Bryant-bold’;
+  src: url(Bryant-bold.eot’);
+  src: url(Bryant-bold.woff’) format(‘woff’), 
+       url(Bryant-bold.ttf’) format(‘truetype’), 
+             url(Bryant-bold.svg’) format(‘svg’);
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-family: Bryant-bold;
+  font-size: 20px;
+  color: #aa6c14;
+}
+
+h1 {
+  font-family: Bryant-bold;
+  font-size: 20px;
+  color: #aa6c14;
+  padding-bottom: 10px;
+}
+
+.top {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.happy {
+  display: inline-block;
+  float: clear;
+  margin-right: 20px;
+}
+
+.in-love {
+  display: inline-block;
+  float: clear;
+  margin-right: 20px;
+}
+
+.silly {
+  display: inline-block;
+  float: clear;
+  margin-right: 20px;
+}
+
+.sad {
+  display: inline-block;
+  float: clear;
+  margin-right: 20px;
+}
+
+.bottom {
+  text-align: center;
+}
+
+.festive {
+  display: inline-block;
+  float: clear;
+  margin-right: 20px;
+}
+
+.angry {
+  display: inline-block;
+  float: clear;
+  margin-right: 20px;
+}
+
+.daring {
+  display: inline-block;
+  float: clear;
+  margin-right: 20px;
+}
+
+.recipe1 {
+  width: 400px;
+  border: 1px solid #c6c6c6;
+  border-radius: 10px;
+  margin-left: 250px;
+  display: inline-block;
+  float: clear;
+}
+
+.recipe2 {
+  width: 400px;
+  border: 1px solid #c6c6c6;
+  border-radius: 10px;
+  margin-right: 300px;
+  display: inline-block;
+  float: right;
+}
+
+.recipe-image {
+  display: inline-block;
+  float: clear;
+}
+
+.text {
+  display: inline-block;
+  float: clear;
+  width: 250px;
+}
+
+p.title {
+  color: #ff911c;
+  font-size: 20px;
+  margin-bottom: 5px;
+  display: inline-block;
+  float: clear;
+}
+
+p.time {
+  color: #aa6c14;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+p.blurb {
+  color: #aa6c14;
+  font-size: 14px;
+  line-height: 15px;
+}
+

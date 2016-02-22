@@ -70,6 +70,40 @@ h1 {
   padding-bottom: 10px;
 }
 
+.red {
+  width: 100%;
+  height: 500px;
+  background-color: #ffc1b3;
+}
+
+.text-daring {
+  width: 500px;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.devil {
+  padding-left: 560px;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.red-btn {
+  background-color: #a82b16;
+  width: 300px;
+  height: 40px;
+  text-align: center;
+  padding-top: 20px;
+  border-radius: 5px;
+  margin: auto;
+}
+
+#surprise-me {
+  color: #fff;
+}
+
 .top {
   text-align: center;
   margin-top: 30px;

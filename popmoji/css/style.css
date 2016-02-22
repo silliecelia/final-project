@@ -8,6 +8,15 @@ nav {
   position: relative;
 }
 
+.dropdown:after {
+  content: "\25BC";
+  font-size: .5em;
+  display: block;
+  position: absolute;
+  top: 38%;
+  right: 12%;
+}
+
 ul.drop-nav {
   position: absolute;
   display: none;
